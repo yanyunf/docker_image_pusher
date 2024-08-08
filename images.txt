@@ -1,1 +1,1 @@
-confluentinc/cp-kafka
+bitnami/kafka:latest
