@@ -1,2 +1,1 @@
-arm64v8/mysql:5.7
-
+docker.io/biarms/mysql:5.7.30-linux-arm64v8
