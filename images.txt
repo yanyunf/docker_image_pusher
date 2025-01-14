@@ -1,1 +1,1 @@
-arm64v8/nginx:alpine-otel
+swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/library/nginx:alpine-linuxarm64
