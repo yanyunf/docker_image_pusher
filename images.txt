@@ -1,1 +1,1 @@
-mcr.microsoft.com/windows/servercore:ltsc2022-arm64
+victoriametrics/victoria-logs:latest
