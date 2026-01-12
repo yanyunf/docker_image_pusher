@@ -1,1 +1,1 @@
-cr.fluentbit.io/fluent/fluent-bit:2.1.4
+dimitri/pgloader:v3.6.7
