@@ -1,1 +1,1 @@
-node:20-alpine
+3.10-slim-bookworm
