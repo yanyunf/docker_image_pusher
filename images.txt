@@ -1,1 +1,1 @@
-aomountainu/openjdk21
+node:22-alpine
